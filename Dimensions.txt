@@ -1,0 +1,33 @@
+iSocom92's choice:
+(This is a bit smaller to the sides and to the top, but I follow 3.65cm for now, this prevents sticking the sticker outside of the concave place on the MCs)
+1.437 inches = 3.64998 cm
+0.687 inches = 1.74498 cm
+3.65cmx1.75cm - Which is the size I used with this printout document
+
+Berion's choice:
+3.8cmx1.8cm at 300DPI
+
+HWNJ/Chelsea's choice:
+427x224pixels at 300 DPI
+
+Noxillio's choice:
+3.8cmx1.9cm at 300 DPI
+
+Instructables choice:
+(This seems to be the maximum size of the place for the label)
+Top:
+W = 38mm (449px @300dpi)
+H = 19mm (224px @ 300dpi)
+
+Side
+W = 30mm (366px @ 300dpi)
+H = 4mm (47px @ 300dpi)
+
+I have noted down all of the dimensions, so everybody can choose whichever they prefer and adjust themselves before printing.
+
+For this printout, I decided to already create 2 versions:
+V3 Width 36.5mm - keep original height aspect ratio while rescaling
+V4 Width 38mm - keep original height aspect ratio while rescaling
+
+36.5mm when cut will have a little bit of space around the label, so You don't have to be very precise when applying it.
+38mm will usually be just right or a bit too big, try it on top of the MC before cutting with scissors, as it might require cutting a bit of the label itself to fit perfectly.
