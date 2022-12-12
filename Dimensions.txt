@@ -31,3 +31,5 @@ V4 Width 38mm - keep original height aspect ratio while rescaling
 
 36.5mm when cut will have a little bit of space around the label, so You don't have to be very precise when applying it.
 38mm will usually be just right or a bit too big, try it on top of the MC before cutting with scissors, as it might require cutting a bit of the label itself to fit perfectly.
+
+V5 keeps the 38mm width scale

@@ -18,6 +18,12 @@ This release contains V3 and V4 in both docx and PDF version.
 All 4 variants are aligned and ready to print.
 docx allows others to modify the template to their needs and PDF ensures that it can be opened and printed even from a smartwatch.
 
+V5 is a version with credits revised for each label, aswell as more label images added to the printout, courtesy of Berion!
+
+Unfortunately, I was not able to find precise information who has created the original FreeMCBoot logo, with the blue patterns behind the letters.
+
+The authors of the FMCB logo itself could be: ps2dragon, JNABK or Jimmikaelkael. It remains unknown which one of the three legends created the logo itself. I believe the largest chance is that ps2dragon or JNABK have created the original FMCB logo, which is used in this printout.
+
 
 Do You like this project?
 Please do share Your own images for PS1/PS2 Memory stickers! 
